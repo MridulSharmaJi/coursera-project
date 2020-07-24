@@ -1,0 +1,43 @@
+@media (min-width: 550px) and (max-width: 720px) {
+    .col-1 {
+      width: 45%;
+    }
+    .col-2 {
+        width: 45%;
+    }
+    .col-3{
+        width: 100%;
+    }
+}
+h2{
+    text-align: center;
+}
+
+section {
+    float: left;
+    margin: 0 1.5%;
+    width: 30%;
+    background-color: gray;
+    
+  }
+  #p1h1{
+      float: right;
+      padding-right: 10px;
+      background-color: pink;
+      margin: 0;
+  }
+  #p2h2{
+    float: right;
+    padding-right: 10px;
+    background-color: brown;
+    margin: 0;
+}
+#p3h3{
+    float: right;
+    padding-right: 10px;
+    background-color:lightsalmon;
+    margin: 0;
+}
+p{
+    padding-top: 40px;
+}
